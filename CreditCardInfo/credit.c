@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cs50.h>
+#include <cs50.h> //CS50 is the only library here that doesn't come as default with compilers. It can be found here: https://github.com/cs50/libcs50
 #include <math.h>
 #include <stdlib.h>
 
